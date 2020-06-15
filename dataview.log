@@ -1,0 +1,45 @@
+2020/04/18 22:47:57.100, Level: 1, Exception: DataPreprocessing
+2020/04/18 22:47:57.108, Level: 1, Exception: DataSplit
+2020/04/18 22:47:57.117, Level: 1, Exception: TestDecisionTree
+2020/04/19 19:43:14.217, Level: 1, The number of input file names is not equal to the nubmer of input ports of this task: TrainDecisionTree
+2020/04/21 22:47:22.179, Level: 1, Exception: C:\Users\nishi\Downloads\DATAVIEW-2.1\DATAVIEW\WebContent\workflowTaskDir\DTTrainingSet.txt (The system cannot find the file specified)
+2020/04/21 22:49:58.097, Level: 1, Exception: C:\Users\nishi\Downloads\DATAVIEW-2.1\DATAVIEW\WebContent\workflowTaskDir\DTTrainingSet.txt (The system cannot find the file specified)
+2020/04/21 22:52:35.805, Level: 1, Exception: C:\Users\nishi\Downloads\DATAVIEW-2.1\DATAVIEW\WebContent\workflowTaskDir\DTTrainingSet.txt (The system cannot find the file specified)
+2020/04/21 23:14:32.884, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:27:27.912, Level: 1, Exception: C:\Users\nishi\Downloads\DATAVIEW-2.1\DATAVIEW\WebContent\workflowTaskDir\InputDecTreeDTTrainingSet.txt (The system cannot find the file specified)
+2020/04/22 00:27:51.044, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:29:12.315, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:30:19.650, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:34:28.027, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:35:57.638, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:36:12.487, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:38:13.710, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:50:02.621, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:54:55.751, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 00:59:19.983, Level: 1, Exception: C:\Users\nishi\Downloads\DATAVIEW-2.1\DATAVIEW\WebContent\workflowTaskDir\DTTrainingSet.txt (The system cannot find the file specified)
+2020/04/22 02:18:07.184, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 02:55:29.282, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 02:56:19.242, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:00:17.631, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:00:49.584, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:02:32.362, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:03:35.448, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:04:01.745, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:06:58.282, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:07:09.115, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:07:35.784, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:08:52.566, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:09:40.027, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:12:05.379, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:15:55.871, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:16:06.944, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:16:36.664, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:17:09.267, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:18:37.685, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:34:55.114, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:37:18.394, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:37:52.561, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:41:53.027, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:42:12.700, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 03:42:48.158, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
+2020/04/22 10:05:15.602, Level: 1, The number of output file names is not equal to the nubmer of output ports of this task: DataSplitDecTree
